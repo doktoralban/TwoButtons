@@ -1,0 +1,1 @@
+C:\prjS\_xamarinPrjs\TwoButtons\TwoButtons\TwoButtons.UWP\TwoButtons.UWP.csproj;x86

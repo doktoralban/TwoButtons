@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UUx51OOmvNBTiTefb0g4rZc4JRRiN0YFCwdB5UilJtXwh0qllOeFrrExDGtMF3VaBtjmlR9kgztRcJwRUyLKDg==",
+  "success": true,
+  "projectFilePath": "C:\\prjS\\_xamarinPrjs\\TwoButtons\\TwoButtons\\TwoButtons\\TwoButtons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}

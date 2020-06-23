@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HcWfm1iOlUkLF+sVIfeh1Ys2GHE+LFhrknn66g3DrgrLeekirzmfiUFjNKx0SqJKV/oWvZ3Qa9P0pNTIBBrY2w==",
+  "success": true,
+  "projectFilePath": "C:\\prjS\\_xamarinPrjs\\TwoButtons\\TwoButtons\\TwoButtons.iOS\\TwoButtons.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
